@@ -13,7 +13,7 @@ Use head and tail method to get the required contents from the file.
 Use len() method to get the number of rows and columns.
 
 ### Step 5:
-Print the output
+Print the output.
 
 ## PROGRAM:
 ~~~
